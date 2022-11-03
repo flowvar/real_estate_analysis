@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+openpyxl = "*"
+seaborn = "*"
+mariadb = "==1.0.8"
+sqlalchemy = "*"
+pymysql = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
