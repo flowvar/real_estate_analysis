@@ -1,2 +1,2 @@
-# real_estate_analysis
-Real estate vs. income analysis for Switzerland in year 2021
+# Real estate prices vs. income: Analysis for Swiss housing market in year 2021
+
