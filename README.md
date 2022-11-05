@@ -1,4 +1,4 @@
-# Real estate prices vs. income: Analysis for Swiss housing market in year 2021
+# Real estate prices vs. income: Analysis of Swiss housing market
 
 In this analysis we compare real estate prices (for rent and purchase) across cantons of Switzerland and put them in relation to income. We use web-scraped real estate data which provides current market prices, income data, and some support data for enrichment (canton-zip lookup table). 
 
